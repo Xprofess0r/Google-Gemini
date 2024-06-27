@@ -27,7 +27,7 @@ const Main = () => {
 					<>
 						<div className="greet">
 							<p>
-								<span>Hello , Bharat </span>
+								<span>Hello , Shashi </span>
 							</p>
 							<p>How Can i Help You Today?</p>
 						</div>
@@ -38,7 +38,7 @@ const Main = () => {
 									handleCardClick("Suggest Some Place To Visit In Karnatka")
 								}
 							>
-								<p>Suggest Some Place To Visit In Karnatka </p>
+								<p>Suggest Some Place To Visit In Kharagpur </p>
 								<img src={assets.compass_icon} alt="" />
 							</div>
 							<div
