@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Google-Gemini/static/css/main.9d3ce1f4.css",
+    "main.js": "/Google-Gemini/static/js/main.bb21e481.js",
+    "static/media/user_icon.png": "/Google-Gemini/static/media/user_icon.8819483ee7d653116bf2.png",
+    "static/media/gallery_icon.png": "/Google-Gemini/static/media/gallery_icon.1da1416be560b7741007.png",
+    "index.html": "/Google-Gemini/index.html",
+    "main.9d3ce1f4.css.map": "/Google-Gemini/static/css/main.9d3ce1f4.css.map",
+    "main.bb21e481.js.map": "/Google-Gemini/static/js/main.bb21e481.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9d3ce1f4.css",
+    "static/js/main.bb21e481.js"
+  ]
+}
